@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/index.php</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offers.php</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/contact.php</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/author.php</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/login.php</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offers.php?sort=DESC</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offers.php?sort=ASC</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=6</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=9</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=5</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=3</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=1</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=8</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offers.php?page=1&amp;sort=DESC</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offers.php?page=2&amp;sort=DESC</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/register.php</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=2</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=12</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=10</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offer.php?id=7</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offers.php?page=1&amp;sort=ASC</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://eurotravel-php.000webhostapp.com/offers.php?page=2&amp;sort=ASC</loc>
+  <lastmod>2023-05-04T21:18:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
